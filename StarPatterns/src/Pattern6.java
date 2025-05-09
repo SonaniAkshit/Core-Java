@@ -1,23 +1,23 @@
 import java.util.Scanner;
 
-/* 🔢 4. Same Number Triangle
+/*🔽 6. Inverted Number Triangle
 
+    1 2 3 4 5
+    1 2 3 4
+    1 2 3
+    1 2
     1
-    2 2
-    3 3 3
-    4 4 4 4
-    5 5 5 5 5
 
  */
-public class Pattern4 {
+public class Pattern6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number: ");
         int num = sc.nextInt();
 
         for(int i=0; i<num; i++){
-            for(int j=0 ; j<i+1; j++){
-                System.out.print(i+1 + " ");
+            for(int j=0; j<num-i; j++){
+                System.out.print(j+1 + " ");
             }
             System.out.println();
         }
