@@ -214,7 +214,7 @@ git clone https://github.com/yourusername/pattern-collection.git
 # ❤️ Contribute
 Have a new pattern in mind? Feel free to contribute and make this collection even more awesome! ✨
 
+---
 # 🔥 Happy Coding! 🚀
-
 ---
 
