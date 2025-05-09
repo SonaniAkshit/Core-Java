@@ -1,6 +1,16 @@
 # ✨ Pattern Printing Collection 🚀
 Welcome to the Pattern **Printing Collection!** This repo contains **22 amazing pattern programs** that are **beginner-friendly** and great for learning loops and basic logic in programming. Each pattern is beautifully crafted and explained in a simple visual format.
 
+# 📁 Project Structure: Star Patterns
+```
+Core-Java/
+├── StarPatterns/
+│   └── src/
+        ├── pattern1.java
+        ├── pattern2.java
+        ├── pattern3.java
+        ├── to n...        
+```
 ## 🔷 1. Solid Square
 
     * * * * *
@@ -214,7 +224,5 @@ git clone https://github.com/yourusername/pattern-collection.git
 # ❤️ Contribute
 Have a new pattern in mind? Feel free to contribute and make this collection even more awesome! ✨
 
----
 # 🔥 Happy Coding! 🚀
----
 
