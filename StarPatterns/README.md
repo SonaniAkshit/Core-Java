@@ -225,4 +225,4 @@ git clone https://github.com/yourusername/pattern-collection.git
 Have a new pattern in mind? Feel free to contribute and make this collection even more awesome! ✨
 
 # 🔥 Happy Coding! 🚀
-
+### ⭐ Star this repository if you find it helpful!
