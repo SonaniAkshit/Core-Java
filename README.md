@@ -43,3 +43,4 @@ Personal or shared notes on Java fundamentals, stored in Microsoft OneNote forma
 Have a new pattern in mind? Feel free to contribute and make this collection even more awesome! ✨
 
 # 🔥 Happy Coding! 🚀
+### ⭐ Star this repository if you find it helpful!
