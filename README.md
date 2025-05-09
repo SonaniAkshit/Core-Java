@@ -46,8 +46,7 @@ Personal or shared notes on Java fundamentals, stored in Microsoft OneNote forma
 
 ---
 
-## Contributing
-Contributions are welcome! Feel free to submit pull requests for new patterns, improvements, or additional notes.
+# ❤️ Contribute
+Have a new pattern in mind? Feel free to contribute and make this collection even more awesome! ✨
 
-## License
-This project is open source and available under the [MIT License](LICENSE) (add a LICENSE file if you wish). 
+# 🔥 Happy Coding! 🚀
