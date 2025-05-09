@@ -12,7 +12,7 @@ import java.util.Scanner;
        *****
         ***
          *
-         
+
  */
 public class Pattren9 {
     public static void main(String[] args) {
