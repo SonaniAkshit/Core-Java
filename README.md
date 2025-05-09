@@ -11,20 +11,20 @@ Core-Java/
 ├── Java Note/         # Java notes (OneNote format)
 ```
 
-### ⭐ StarPatterns
+## ⭐ StarPatterns
 A collection of 22 Java programs that print various star, number, and alphabet patterns. Each program is crafted to help you practice loops, logic, and output formatting in Java.
 
 - **Location:** `StarPatterns/`
 - **Details:** See [`StarPatterns/README.md`](StarPatterns/README.md) for pattern visuals and explanations.
 
 
-### 🧑‍💻 Fundamentals
+## 🧑‍💻 Fundamentals
 Contains basic Java programs to help you get started with Java syntax, structure, and simple logic.
 
 - **Location:** `Fundamentals/`
 
 
-### 📒 Java Note
+## 📒 Java Note
 Personal or shared notes on Java fundamentals, stored in Microsoft OneNote format. These files are best viewed with OneNote or compatible viewers.
 
 - **Location:** `Java Note/`
