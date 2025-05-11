@@ -217,7 +217,7 @@ Core-Java/
 1️⃣ Clone this repo:
 
 ```
-git clone https://github.com/yourusername/pattern-collection.git
+git clone https://github.com/SonaniAkshit/pattern-collection.git
 ```
 2️⃣ Run your favorite pattern in any programming language you love Java.
 
