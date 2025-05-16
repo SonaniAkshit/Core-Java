@@ -33,8 +33,8 @@ Personal or shared notes on Java fundamentals, stored in Microsoft OneNote forma
 ## Getting Started
 
 1. Clone the repository:
-   ```sh
-   git clone <repo-url>
+   ```bash
+   git clone https://github.com/SonaniAkshit/Core-Java.git
    ```
 2. Open the desired folder in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
 3. Explore the code and notes to enhance your Java skills!
